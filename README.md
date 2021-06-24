@@ -13,6 +13,7 @@ Is the flight within
 Europe?
 
 -------------------------------Rewards-------------------------------
+
 green yes • Receives 10 additional points
 • Priority boarding – no
 no • Receives 20 additional points
