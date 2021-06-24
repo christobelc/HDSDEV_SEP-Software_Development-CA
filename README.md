@@ -15,9 +15,9 @@ Europe?
 -------------------------------Rewards-------------------------------
 
 green yes • Receives 10 additional points
-• Priority boarding – no
-no • Receives 20 additional points
-• Priority boarding – no
+          • Priority boarding – no
+      no  • Receives 20 additional points
+          • Priority boarding – no
 gold yes • Receives 30 additional points
 • Priority boarding – no
 no • Receives 50 additional points
